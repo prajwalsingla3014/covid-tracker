@@ -2,8 +2,8 @@
 
 Some functionalities of this project:-
 
-** Show Live cases,recoveries and deaths.
-** Show country cases,recoveries and deaths
+* Show Live cases,recoveries and deaths.
+* Show country cases,recoveries and deaths
 
 
 Deployed :- https://covid-tracker-fd516.web.app/
