@@ -3,8 +3,10 @@
 Some functionalities of this project:-
 
 * Show Live cases,recoveries and deaths.
-* Show country cases,recoveries and deaths
-
+* On selecting particular country from dropdown
+  * Show country cases,recoveries and deaths on card.
+  * Show cases also on Line Graph
+* Map is also used to show country cases after clicking on country
 
 Deployed :- https://covid-tracker-fd516.web.app/
 
